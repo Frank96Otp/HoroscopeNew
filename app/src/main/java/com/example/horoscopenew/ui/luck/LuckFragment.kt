@@ -12,6 +12,8 @@ import dagger.hilt.android.AndroidEntryPoint
 @AndroidEntryPoint
 class LuckFragment : Fragment() {
 
+
+
     private var _binding: FragmentLuckBinding? = null
     private val binding get() = _binding!!
 
